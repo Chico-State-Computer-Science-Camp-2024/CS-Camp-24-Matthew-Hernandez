@@ -1,0 +1,3 @@
+HTML - Skeleton
+CSS - Skin, hair, etc...
+JS - Nervous System
